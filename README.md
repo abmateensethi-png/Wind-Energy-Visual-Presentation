@@ -23,5 +23,5 @@ To view the PowerPoint presentation:
 > ⚠ GitHub doesn’t preview large PowerPoint files, so you’ll need to download it to view.
 ---
 
-Author: Abmat Mateen  
+Author: Abdul Mateen  
 Connect on GitHub: [github.com/abmateensethi-png] (https://github.com/abmateensethi-png)
